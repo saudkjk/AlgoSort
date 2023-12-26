@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>graphics/background.png</file>
+        <file>graphics/icon.png</file>
+        <file>graphics/bogo-sort.png</file>
+        <file>graphics/heap-sort.png</file>
+        <file>graphics/insertion-sort.png</file>
+        <file>graphics/merge-sort.png</file>
+        <file>graphics/quick-sort.png</file>
+        <file>graphics/selection-sort.png</file>
+        <file>graphics/lock.png</file>
+        <file>graphics/comingSoon.png</file>
+    </qresource>
+</RCC>
